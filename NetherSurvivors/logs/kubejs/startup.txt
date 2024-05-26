@@ -1,8 +1,0 @@
-[01:02:20] [INFO ] Hello, World! (You will only see this line once in console, during startup)
-[01:02:20] [INFO ] Loaded script startup_scripts:script.js in 0.16 s
-[01:02:20] [INFO ] Loaded 1/1 KubeJS startup scripts in 0.863 s
-[01:02:20] [ERR  ] Error occurred while handling event 'item.registry': TypeError: Cannot call property modelJson in object dev.latvian.kubejs.item.ItemBuilder@16cca173. It is not a function, it is "object". (startup_scripts:script.js#6)
-[01:02:20] [ERR  ] Error occurred while handling event 'item.registry': TypeError: Cannot call property modelJson in object dev.latvian.kubejs.item.ItemBuilder@20830b58. It is not a function, it is "object". (startup_scripts:script.js#9)
-[01:02:20] [ERR  ] Error occurred while handling event 'item.registry': TypeError: Cannot call property modelJson in object dev.latvian.kubejs.item.ItemBuilder@50eea1d0. It is not a function, it is "object". (startup_scripts:script.js#12)
-[01:02:20] [ERR  ] Error occurred while handling event 'item.registry': TypeError: Cannot call property modelJson in object dev.latvian.kubejs.item.ItemBuilder@65ee7d61. It is not a function, it is "object". (startup_scripts:script.js#15)
-[01:02:20] [ERR  ] Error occurred while handling event 'item.registry': TypeError: Cannot call property modelJson in object dev.latvian.kubejs.item.ItemBuilder@94e6277. It is not a function, it is "object". (startup_scripts:script.js#18)
